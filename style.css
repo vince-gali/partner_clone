@@ -1,0 +1,37 @@
+
+
+.bg-black{
+    background-color: #1b1b1b00 ;
+}
+
+.bg-btn-grn{
+    background-color: rgb(85, 246, 85);
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.text-active{
+    color: rgb(85, 246, 85);
+}
+
+.bg-img{
+    background-image: url(https://th.bing.com/th/id/OIP.S_GWNSxTa8St-3x6BpKJMwHaEo?pid=ImgDet&rs=1);
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+
+}
+
+.bg-tab{
+    background-color: rgb(224, 224, 224);
+}
+
+.img-border-radius{
+    border-radius: 4rem;
+}
+
+.bg-white{
+    background-color: white;
+}
